@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/monotonic-array
+# https://leetcode.com/problems/monotonic-array
 
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:

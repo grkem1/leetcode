@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-number-of-homogenous-substrings
+# https://leetcode.com/problems/count-number-of-homogenous-substrings
 
 class Solution:
     def countHomogenous(self, s: str) -> int:

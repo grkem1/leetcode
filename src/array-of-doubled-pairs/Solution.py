@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/array-of-doubled-pairs
+# https://leetcode.com/problems/array-of-doubled-pairs
 
 class Solution:
     def canReorderDoubled(self, arr: [int]) -> bool:

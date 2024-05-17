@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-genetic-mutation
+# https://leetcode.com/problems/minimum-genetic-mutation
 
 class Solution:
     def minMutation(self, start: str, end: str, bank: List[str]) -> int:

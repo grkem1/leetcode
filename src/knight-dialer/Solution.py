@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/knight-dialer
+# https://leetcode.com/problems/knight-dialer
 
 class Solution:
     def knightDialer(self, n: int) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/single-threaded-cpu
+# https://leetcode.com/problems/single-threaded-cpu
 
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:

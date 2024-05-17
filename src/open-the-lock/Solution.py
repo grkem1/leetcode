@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/open-the-lock
+# https://leetcode.com/problems/open-the-lock
 
 class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:

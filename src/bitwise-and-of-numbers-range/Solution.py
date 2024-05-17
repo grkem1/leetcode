@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/bitwise-and-of-numbers-range
+# https://leetcode.com/problems/bitwise-and-of-numbers-range
 
 class Solution:
     def rangeBitwiseAnd(self, left: int, right: int) -> int:

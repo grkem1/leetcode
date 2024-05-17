@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-number-of-refueling-stops
+# https://leetcode.com/problems/minimum-number-of-refueling-stops
 
 class Solution:
     def minRefuelStops(self, target: int, startFuel: int, stations: List[List[int]]) -> int:

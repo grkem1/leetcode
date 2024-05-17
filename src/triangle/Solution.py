@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/triangle
+# https://leetcode.com/problems/triangle
 
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:

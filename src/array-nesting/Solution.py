@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/array-nesting
+# https://leetcode.com/problems/array-nesting
 
 class Solution:
     def arrayNesting(self, nums: [int]) -> int:

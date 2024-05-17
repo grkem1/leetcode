@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/complement-of-base-10-integer
+# https://leetcode.com/problems/complement-of-base-10-integer
 
 class Solution:
     def bitwiseComplement(self, n: int) -> int:

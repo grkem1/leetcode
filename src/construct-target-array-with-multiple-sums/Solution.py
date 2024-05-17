@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/construct-target-array-with-multiple-sums
+# https://leetcode.com/problems/construct-target-array-with-multiple-sums
 
 class Solution:
     def isPossible(self, target: List[int]) -> bool:

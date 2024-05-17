@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/linked-list-random-node
+# https://leetcode.com/problems/linked-list-random-node
 
 # Definition for singly-linked list.
 # class ListNode:

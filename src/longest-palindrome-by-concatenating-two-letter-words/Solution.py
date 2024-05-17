@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words
+# https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words
 
 class Solution:
     def longestPalindrome(self, words: List[str]) -> int:

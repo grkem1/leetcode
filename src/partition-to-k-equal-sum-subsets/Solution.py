@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+# https://leetcode.com/problems/partition-to-k-equal-sum-subsets
 
 class Solution:
     def canPartitionKSubsets(self, nums: [int], k: int) -> bool:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/teemo-attacking
+# https://leetcode.com/problems/teemo-attacking
 
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:

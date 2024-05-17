@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-duplicate-file-in-system
+# https://leetcode.com/problems/find-duplicate-file-in-system
 
 class Solution:
     def findDuplicate(self, paths: List[str]) -> List[List[str]]:

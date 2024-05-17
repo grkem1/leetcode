@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/jump-game-iii
+# https://leetcode.com/problems/jump-game-iii
 
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:

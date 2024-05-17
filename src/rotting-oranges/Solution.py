@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/rotting-oranges
+# https://leetcode.com/problems/rotting-oranges
 
 class Solution:
     def orangesRotting(self, grid: [[int]]) -> int:

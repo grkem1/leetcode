@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/subarray-sums-divisible-by-k
+# https://leetcode.com/problems/subarray-sums-divisible-by-k
 
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:

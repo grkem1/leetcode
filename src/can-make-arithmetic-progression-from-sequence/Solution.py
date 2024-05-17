@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence
+# https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence
 
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:

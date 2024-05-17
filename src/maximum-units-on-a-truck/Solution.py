@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-units-on-a-truck
+# https://leetcode.com/problems/maximum-units-on-a-truck
 
 class Solution:
     def maximumUnits(self, boxTypes: [[int]], truckSize: int) -> int:

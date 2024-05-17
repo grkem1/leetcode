@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks
+# https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks
 
 class Solution:
     def minimumRounds(self, tasks: List[int]) -> int:

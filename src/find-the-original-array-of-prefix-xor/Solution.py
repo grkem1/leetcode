@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-the-original-array-of-prefix-xor
+# https://leetcode.com/problems/find-the-original-array-of-prefix-xor
 
 class Solution:
     def findArray(self, pref: List[int]) -> List[int]:

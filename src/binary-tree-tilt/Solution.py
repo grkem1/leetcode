@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/binary-tree-tilt
+# https://leetcode.com/problems/binary-tree-tilt
 
 # Definition for a binary tree node.
 # class TreeNode:

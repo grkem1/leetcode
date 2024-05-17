@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/sort-array-by-parity-ii
+# https://leetcode.com/problems/sort-array-by-parity-ii
 
 class Solution:
     def sortArrayByParityII(self, nums: [int]) -> [int]:

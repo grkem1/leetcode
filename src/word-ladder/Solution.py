@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/word-ladder
+# https://leetcode.com/problems/word-ladder
 
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: [str]) -> int:

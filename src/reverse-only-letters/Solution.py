@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/reverse-only-letters
+# https://leetcode.com/problems/reverse-only-letters
 
 class Solution:
     def reverseOnlyLetters(self, s: str) -> str:

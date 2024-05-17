@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/as-far-from-land-as-possible
+# https://leetcode.com/problems/as-far-from-land-as-possible
 
 class Solution:
     def maxDistance(self, grid: List[List[int]]) -> int:

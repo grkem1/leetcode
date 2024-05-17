@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+# https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
 
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/unique-binary-search-trees
+# https://leetcode.com/problems/unique-binary-search-trees
 
 class Solution:
     def numTrees(self, n: int) -> int:

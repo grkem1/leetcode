@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/remove-stones-to-minimize-the-total
+# https://leetcode.com/problems/remove-stones-to-minimize-the-total
 
 class Solution:
     def minStoneSum(self, piles: List[int], k: int) -> int:

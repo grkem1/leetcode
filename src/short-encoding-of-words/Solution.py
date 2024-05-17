@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/short-encoding-of-words
+# https://leetcode.com/problems/short-encoding-of-words
 
 class Solution:
     def minimumLengthEncoding(self,words:[str])->int:

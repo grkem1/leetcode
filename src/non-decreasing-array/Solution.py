@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/non-decreasing-array
+# https://leetcode.com/problems/non-decreasing-array
 
 class Solution:
     def checkPossibility(self, nums: List[int]) -> bool:

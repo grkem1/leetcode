@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/keys-and-rooms
+# https://leetcode.com/problems/keys-and-rooms
 
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:

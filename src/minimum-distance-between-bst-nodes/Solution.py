@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-distance-between-bst-nodes
+# https://leetcode.com/problems/minimum-distance-between-bst-nodes
 
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/k-diff-pairs-in-an-array
+# https://leetcode.com/problems/k-diff-pairs-in-an-array
 
 class Solution:
     def findPairs(self, nums: List[int], k: int) -> int:

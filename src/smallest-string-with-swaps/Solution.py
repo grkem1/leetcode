@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/smallest-string-with-swaps
+# https://leetcode.com/problems/smallest-string-with-swaps
 
 class Solution:
     def smallestStringWithSwaps(self,s,pairs) -> str:

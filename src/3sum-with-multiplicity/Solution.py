@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/3sum-with-multiplicity
+# https://leetcode.com/problems/3sum-with-multiplicity
 
 class Solution:
     def threeSumMulti(self, arr: [int], target: int) -> int:

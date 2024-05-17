@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-speed-to-arrive-on-time
+# https://leetcode.com/problems/minimum-speed-to-arrive-on-time
 
 class Solution:
     def minSpeedOnTime(self, dist: List[int], hour: float) -> int:

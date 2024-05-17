@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/furthest-building-you-can-reach
+# https://leetcode.com/problems/furthest-building-you-can-reach
 
 class Solution:
     def furthestBuilding(self, heights: List[int], bricks: int, ladders: int) -> int:

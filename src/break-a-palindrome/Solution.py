@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/break-a-palindrome
+# https://leetcode.com/problems/break-a-palindrome
 
 class Solution:
     def breakPalindrome(self, p: str) -> str:

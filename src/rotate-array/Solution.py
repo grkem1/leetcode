@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/rotate-array
+# https://leetcode.com/problems/rotate-array
 
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:

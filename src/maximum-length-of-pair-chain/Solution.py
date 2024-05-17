@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-length-of-pair-chain
+# https://leetcode.com/problems/maximum-length-of-pair-chain
 
 class Solution:
     def findLongestChain(self, pairs: List[List[int]]) -> int:

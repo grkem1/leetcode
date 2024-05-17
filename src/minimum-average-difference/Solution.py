@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-average-difference
+# https://leetcode.com/problems/minimum-average-difference
 
 class Solution:
     def minimumAverageDifference(self, nums: List[int]) -> int:

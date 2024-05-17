@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+# https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
 
 class Solution:
     def minDeletions(self, s: str) -> int:

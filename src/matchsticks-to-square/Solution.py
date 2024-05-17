@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/matchsticks-to-square
+# https://leetcode.com/problems/matchsticks-to-square
 
 class Solution:
     def makesquare(self, matchsticks: [int]) -> bool:

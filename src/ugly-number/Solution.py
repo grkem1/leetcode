@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/ugly-number
+# https://leetcode.com/problems/ugly-number
 
 class Solution:
     def isUgly(self, n: int) -> bool:

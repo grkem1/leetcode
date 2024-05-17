@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/game-of-life
+# https://leetcode.com/problems/game-of-life
 
 class Solution:
     def gameOfLife(self, board: [[int]]) -> None:

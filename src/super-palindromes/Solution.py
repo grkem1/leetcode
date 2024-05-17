@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/super-palindromes
+# https://leetcode.com/problems/super-palindromes
 
 class Solution:
     def superpalindromesInRange(self, left: str, right: str) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/eliminate-maximum-number-of-monsters
+# https://leetcode.com/problems/eliminate-maximum-number-of-monsters
 
 class Solution:
     def eliminateMaximum(self, dist: List[int], speed: List[int]) -> int:

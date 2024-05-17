@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/nearest-exit-from-entrance-in-maze
+# https://leetcode.com/problems/nearest-exit-from-entrance-in-maze
 
 class Solution:
     def nearestExit(self, maze: List[List[str]], entrance: List[int]) -> int:

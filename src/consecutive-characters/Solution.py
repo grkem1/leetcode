@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/consecutive-characters
+# https://leetcode.com/problems/consecutive-characters
 
 class Solution:
     def maxPower(self, s: str) -> int:

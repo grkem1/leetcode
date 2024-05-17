@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/flip-string-to-monotone-increasing
+# https://leetcode.com/problems/flip-string-to-monotone-increasing
 
 class Solution:
     def minFlipsMonoIncr(self, s: str) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/split-array-largest-sum
+# https://leetcode.com/problems/split-array-largest-sum
 
 class Solution:
     def splitArray(self, nums: List[int], m: int) -> int:

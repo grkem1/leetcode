@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/gas-station
+# https://leetcode.com/problems/gas-station
 
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:

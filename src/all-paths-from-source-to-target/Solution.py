@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/all-paths-from-source-to-target
+# https://leetcode.com/problems/all-paths-from-source-to-target
 
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:

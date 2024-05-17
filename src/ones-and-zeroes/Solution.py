@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/ones-and-zeroes
+# https://leetcode.com/problems/ones-and-zeroes
 
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:

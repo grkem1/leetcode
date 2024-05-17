@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/contiguous-array
+# https://leetcode.com/problems/contiguous-array
 
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:

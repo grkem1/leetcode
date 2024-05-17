@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-players-with-zero-or-one-losses
+# https://leetcode.com/problems/find-players-with-zero-or-one-losses
 
 class Solution:
     def findWinners(self, matches: List[List[int]]) -> List[List[int]]:

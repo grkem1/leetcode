@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/total-cost-to-hire-k-workers
+# https://leetcode.com/problems/total-cost-to-hire-k-workers
 
 class Solution:
     def totalCost(self, costs: List[int], k: int, candidates: int) -> int:

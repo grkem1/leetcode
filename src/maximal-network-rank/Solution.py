@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximal-network-rank
+# https://leetcode.com/problems/maximal-network-rank
 
 class Solution:
     def maximalNetworkRank(self, n: int, roads: List[List[int]]) -> int:

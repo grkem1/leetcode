@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+# https://leetcode.com/problems/two-sum-iv-input-is-a-bst
 
 class Solution:
     def findTarget(self, root, k: int) -> bool:

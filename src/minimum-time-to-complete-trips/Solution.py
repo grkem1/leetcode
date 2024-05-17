@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-time-to-complete-trips
+# https://leetcode.com/problems/minimum-time-to-complete-trips
 
 class Solution:
     def minimumTime(self, time: List[int], totalTrips: int) -> int:

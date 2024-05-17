@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/reorganize-string
+# https://leetcode.com/problems/reorganize-string
 
 class Solution:
     def reorganizeString(self, s: str) -> str:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/cells-with-odd-values-in-a-matrix
+# https://leetcode.com/problems/cells-with-odd-values-in-a-matrix
 
 class Solution:
     def oddCells(self, m: int, n: int, indices: List[List[int]]) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/is-graph-bipartite
+# https://leetcode.com/problems/is-graph-bipartite
 
 class Solution:
     def isBipartite(self, graph: [[int]]) -> bool:

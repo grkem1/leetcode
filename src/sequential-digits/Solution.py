@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/sequential-digits
+# https://leetcode.com/problems/sequential-digits
 
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> [int]:

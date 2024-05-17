@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/sum-of-subarray-minimums
+# https://leetcode.com/problems/sum-of-subarray-minimums
 
 class Solution:
     def sumSubarrayMins(self, arr: List[int]) -> int:

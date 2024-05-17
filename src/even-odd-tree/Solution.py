@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/even-odd-tree
+# https://leetcode.com/problems/even-odd-tree
 
 # Definition for a binary tree node.
 # class TreeNode:

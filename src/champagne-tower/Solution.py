@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/champagne-tower
+# https://leetcode.com/problems/champagne-tower
 
 class Solution:
     def champagneTower(self, poured: float, query_row: int, query_glass: int) -> float:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/seat-reservation-manager
+# https://leetcode.com/problems/seat-reservation-manager
 
 class SeatManager:
 

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/interval-list-intersections
+# https://leetcode.com/problems/interval-list-intersections
 
 class Solution:
     def intervalIntersection(self, firstList: [[int]], secondList: [[int]]) -> [[int]]:

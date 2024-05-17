@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/ambiguous-coordinates
+# https://leetcode.com/problems/ambiguous-coordinates
 
 class Solution:
     def ambiguousCoordinates(self, s: str) -> List[str]:

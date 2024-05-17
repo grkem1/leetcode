@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/buddy-strings
+# https://leetcode.com/problems/buddy-strings
 
 class Solution:
     def buddyStrings(self, s: str, goal: str) -> bool:

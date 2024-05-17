@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/partition-list
+# https://leetcode.com/problems/partition-list
 
 # Definition for singly-linked list.
 # class ListNode:

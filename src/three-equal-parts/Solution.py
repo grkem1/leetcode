@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/three-equal-parts
+# https://leetcode.com/problems/three-equal-parts
 
 class Solution:
     def threeEqualParts(self, arr: List[int]) -> List[int]:

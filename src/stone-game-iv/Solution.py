@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/stone-game-iv
+# https://leetcode.com/problems/stone-game-iv
 
 class Solution:
     def winnerSquareGame(self, n: int) -> bool:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/binary-trees-with-factors
+# https://leetcode.com/problems/binary-trees-with-factors
 
 class Solution:
     def numFactoredBinaryTrees(self, arr: List[int]) -> int:

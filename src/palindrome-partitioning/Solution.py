@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/palindrome-partitioning
+# https://leetcode.com/problems/palindrome-partitioning
 
 class Solution:
     def partition(self, s: str) -> [[str]]:

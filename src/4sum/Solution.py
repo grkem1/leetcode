@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/4sum
+# https://leetcode.com/problems/4sum
 
 class Solution:
     def fourSum(self, nums: [int], target: int) -> [[int]]:

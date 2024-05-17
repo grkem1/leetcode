@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/split-linked-list-in-parts
+# https://leetcode.com/problems/split-linked-list-in-parts
 
 class Solution:
     def splitListToParts(self, head: [ListNode], k: int) -> [[ListNode]]:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimize-deviation-in-array
+# https://leetcode.com/problems/minimize-deviation-in-array
 
 class Solution:
     def minimumDeviation(self, nums: [int]) -> int:

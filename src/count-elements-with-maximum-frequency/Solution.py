@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-elements-with-maximum-frequency
+# https://leetcode.com/problems/count-elements-with-maximum-frequency
 
 class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/k-radius-subarray-averages
+# https://leetcode.com/problems/k-radius-subarray-averages
 
 class Solution:
     def getAverages(self, nums: List[int], k: int) -> List[int]:

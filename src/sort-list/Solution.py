@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/sort-list
+# https://leetcode.com/problems/sort-list
 
 # Definition for singly-linked list.
 # class ListNode:

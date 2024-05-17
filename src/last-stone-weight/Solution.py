@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/last-stone-weight
+# https://leetcode.com/problems/last-stone-weight
 
 class Solution:
     def lastStoneWeight(self, stones: [int]) -> int:

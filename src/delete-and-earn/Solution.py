@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/delete-and-earn
+# https://leetcode.com/problems/delete-and-earn
 
 class Solution:
     def deleteAndEarn(self, nums: [int]) -> int:
